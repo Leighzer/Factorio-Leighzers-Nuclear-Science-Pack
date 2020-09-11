@@ -1,0 +1,11 @@
+{
+  "name": "leighzernuclearsciencepack",
+  "version": "0.1.0",
+  "title": "Leighzer's Nuclear Science Pack",
+  "author": "Leighzer",
+  "contact": "Please message me on the factorio forums my username is leighzer.",
+  "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=63592",
+  "factorio_version": "1.0",
+  "dependencies": [ "base >= 1.0.0", "leighzerlib >= 0.2.1"],
+  "description": "Adds a science pack that requires nuclear related items."
+}
