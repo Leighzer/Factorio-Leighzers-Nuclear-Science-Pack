@@ -31,7 +31,10 @@ local sciencePackTool = {
     durability_description_value = "description.science-pack-remaining-amount-value",
 
     leighzerscienceoresOreTintName = "lime",
-    leighzerscienceoresStartingAreaEnabled = false
+    leighzerscienceoresStartingAreaEnabled = false,
+
+    leighzerburiedscienceMapTintName = "lime",
+    leighzerburiedscienceStartingAreaEnabled = false,
 }
 data:extend({
     sciencePackTool
